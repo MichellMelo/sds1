@@ -21,7 +21,7 @@ const initialPieData = {
     series: []
 }
 
-const BASE_URL = 'http://localhost:8080';
+const BASE_URL = 'https://sds1-michell.herokuapp.com';
 
 
 const Charts = () => {
@@ -66,7 +66,7 @@ const Charts = () => {
                         />
                     </div>
                     <div>
-                        <h2>Quantidade de votos</h2>
+                        <h2 className="text-subtitle">Quantidade de votos</h2>
                     </div>
                 </div>
                 <div className="charts">

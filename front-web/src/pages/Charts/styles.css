@@ -70,3 +70,16 @@
     background-color: var(--color-dimgray);
     border-radius: 10px;
 }
+
+.chart-text {
+    width: 271px;
+    height: 37px;
+    left: 413px;
+    top: 867px;
+}
+
+.text-subtitle {
+    color: #ed7947;
+    font-size: 24px;
+    text-align: center;
+}
